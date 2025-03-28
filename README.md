@@ -8,6 +8,8 @@
 
 # Chaz
 
+#fork in progress. no changes have been made yet.
+
 ![Chaz](images/chaz03.jpg)
 Low Profile, Choc Spaced QAZ-alike
 
