@@ -2,6 +2,9 @@
 
 # Ciao!
 
+![Chaz](/images%20ADD/front.png)
+![Chaz](/images%20ADD/back.png)
+
 Low Profile, Choc-spaced QAZ-alike, with NEW Hotswap Jank Xiao BLE Plus Flavor(tm)!
 
 #fork in progress. get these made at your own mortal peril.

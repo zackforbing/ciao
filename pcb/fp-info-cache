@@ -1,4 +1,4 @@
-27159646151828810
+27159646156085076
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -67885,13 +67885,6 @@ Yellow 5381 Series LED
 0
 2
 2
-Library
-Double polarity JST-ACH
-
-
-0
-8
-3
 MXMountLP.pretty-main
 MXMountLP-1.5U
 
@@ -108842,3 +108835,10 @@ Footprint for Seeduino Xiao nRF52840 controllers, through hole and castellated p
 0
 31
 27
+zackforbing
+Double polarity JST-ACH
+
+
+0
+8
+3
