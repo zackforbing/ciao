@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 1.0,
-          "height": 1.8,
-          "width": 1.8
+          "drill": 1.0922,
+          "height": 2.25,
+          "width": 1.5
         },
         "silk_line_width": 0.12,
         "silk_text_italic": false,
@@ -52,7 +52,68 @@
         }
       },
       "diff_pair_dimensions": [],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "clearance|150793380|112667936|0277a3d3-c21f-48c0-950d-95bd9631d5cc|fe584413-77a9-4ba3-babc-29af2148fdca",
+          ""
+        ],
+        [
+          "clearance|164293376|95667928|65d1cd38-2c9e-43ed-8ac3-81440ac2e8f2|e09da9c6-1f62-4515-a663-a3f79bb5226c",
+          ""
+        ],
+        [
+          "clearance|177793745|129668368|d50d3867-19f1-400c-9cc5-f872f0a56930|f3e0075b-c8c8-4e82-b48d-2dc6b272abe9",
+          ""
+        ],
+        [
+          "clearance|219144025|110863375|5f4ad2f2-2728-49db-ba65-cccb6e0a7ff5|bfd3d97a-c9e2-4cd0-858b-b60b97a80feb",
+          ""
+        ],
+        [
+          "clearance|219243958|110989136|bfd3d97a-c9e2-4cd0-858b-b60b97a80feb|e7954c99-3917-456e-b0d3-168cc9f6cf87",
+          ""
+        ],
+        [
+          "clearance|219835655|110576873|7168090a-1b3b-4ac2-8287-4989e05358f7|bfd3d97a-c9e2-4cd0-858b-b60b97a80feb",
+          ""
+        ],
+        [
+          "clearance|240793376|112667928|6153b025-4357-4048-824f-118c571b85fc|eff4b42b-8893-42a3-9408-7ead75cb8f52",
+          ""
+        ],
+        [
+          "clearance|258793380|112667936|1cc56776-2e66-439d-bcc3-821ad14cc8aa|4a6cedad-9e3a-4ab8-b6a3-a154aabd2966",
+          ""
+        ],
+        [
+          "clearance|267793376|129667928|7d822771-c21e-40aa-9795-f9b7377d1d29|c4cd812a-270d-410f-b343-9c8fe01edee4",
+          ""
+        ],
+        [
+          "clearance|272293380|95667936|18e79338-f9f8-41ae-9a50-0dedbd77e1e1|4e1e7432-c484-4e90-ae06-56e9622750fd",
+          ""
+        ],
+        [
+          "clearance|276793380|112667936|9b5a3dbe-891a-4a56-942e-9bfb802479cc|b1c03d6f-e7b6-4eb0-8f98-243841ff39a8",
+          ""
+        ],
+        [
+          "clearance|283309980|116284451|88f2ce57-ac86-477c-9be8-2f6dc0ecfe20|faeb7b5e-e037-4e23-af90-07d57194e7bb",
+          ""
+        ],
+        [
+          "clearance|287727891|128011054|2d44d3d8-c4f7-4dbb-893c-b4627c416797|60ad3d40-9418-4a92-96a5-b0f445b20d6f",
+          ""
+        ],
+        [
+          "courtyards_overlap|120238025|134339773|65394cfe-f915-49b5-8b29-64d0183748c2|d86eb3d2-61f6-4710-9725-9fbe44e17ac1",
+          ""
+        ],
+        [
+          "courtyards_overlap|287947750|95645063|77731464-d7f5-44b3-9f09-3f5c5a0c1e42|e213b181-8a5c-4a09-b289-3c5e0ebf17e8",
+          ""
+        ]
+      ],
       "meta": {
         "filename": "board_design_settings.json",
         "version": 2
@@ -174,7 +235,7 @@
           "td_allow_use_two_tracks": true,
           "td_curve_segcount": 1,
           "td_height_ratio": 1.0,
-          "td_length_ratio": 0.5,
+          "td_length_ratio": 1.0,
           "td_maxheight": 2.0,
           "td_maxlen": 1.0,
           "td_on_pad_in_zone": false,
